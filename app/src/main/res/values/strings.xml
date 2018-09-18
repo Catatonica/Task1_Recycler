@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Task1_Recycler</string>
-    <string name="item">Item:</string>
-    <string name="toast_message">" item was touched"</string>
+    <string name="cardItem">Item:</string>
+    <string name="arrow">arrow</string>
 </resources>
